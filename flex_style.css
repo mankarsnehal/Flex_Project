@@ -106,7 +106,7 @@ body {
 
 .showcase-area {
     height: 50vh;
-    background: linear-gradient(rgba(240,240,240,0.78), rgba(255,255,255,0.336)) ,url('./img//header-image2.jpg');
+    background: linear-gradient(rgba(240,240,240,0.78), rgba(255,255,255,0.336)) ,url('/Flex_Project/header-image2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
